@@ -18,9 +18,9 @@
 
 ## Service Repositories
 
-- Order Service: https://github.com/RandaOmer92/order-service
-- Product Service: https://github.com/RandaOmer92/product-service
-- Store Front: https://github.com/RandaOmer92/store-front
+- Order Service: https://github.com/RandaOmer92/order-service/tree/lab3
+- Product Service: https://github.com/RandaOmer92/product-service/tree/lab3
+- Store Front: https://github.com/RandaOmer92/store-front/tree/lab3
 
 ---
 ## Deployment
